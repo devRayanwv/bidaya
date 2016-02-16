@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host":   "localhost",
+    "type":   "mysql",
+    "driver": "pdo_mysql",
+    "dname":   "test",
+    "user":   "root",
+    "password":   "root",
+    "charset":    "utf8"
+  },
+  "paths":  {
+    "view": "../views/"
+  }
+}
